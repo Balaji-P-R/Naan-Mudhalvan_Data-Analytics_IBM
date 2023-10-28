@@ -22,9 +22,7 @@ The project is done through various phases
 ### [Explore Phase 4 Code and Analysis](https://drive.google.com/file/d/1E0nHFToRTVGSQ2q1NfmXpVgJSw192PEW/view?usp=sharing)
 - The Jupyter Notebook contains the code and analysis for Phase 4, where we have employed more sophisticated techniques.
 
-### [Access IBM Cognos for Phase 4 Analysis](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_f
-olders%2FDAC_PHASE4_BATCH6&action=view&mode=dashboard&subView=
-model0000018b768a139c_00000001)
+### [Access IBM Cognos for Phase 4 Analysis](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDAC_PHASE4_BATCH6&action=view&mode=dashboard&subView=model0000018b768a139c_00000001)
 - For advanced analysis and visualization, you can access IBM Cognos in Phase 4.
 
 For overall documents kindly look through the following drive
